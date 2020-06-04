@@ -9,7 +9,7 @@ objectives:
 - "Create a README for a research projects"
 - "Set up the folder structure (including filename) for a project"
 - "Document the decision-making and the research process"
-
+---
 ### Documentation with READMEs
 READMEs are commonly used to document software installation, and can also be used for:
 - Research project workflows
@@ -23,7 +23,7 @@ What to Include in a README?
 - A list of files and folders, a description of their contents, how to use them
 - For each file name, a short list of the data that it contains
 - The date that the file was created
-
+---
 keypoints:
 - "READMEs are an important and simple tool for documenting various aspects of a research project, including assets (data) and workflow"
 ---
