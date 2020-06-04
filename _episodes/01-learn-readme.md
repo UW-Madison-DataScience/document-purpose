@@ -16,8 +16,10 @@ keypoints:
 READMEs are commonly used to document software installation, and can also be used for:
 - Research project workflows
 - Describing datasets
+
 READMEs are typically a .txt or .md (markdown) file format
 - These file formats can be opened universally
+
 What to Include in a README?
 - Title of research project and/or dataset
 - Names, contact information, and institutional affiliation for those associated with the project
