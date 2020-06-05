@@ -9,6 +9,8 @@ objectives:
 - "Create a README for a research projects"
 - "Set up the folder structure (including filename) for a project"
 - "Document the decision-making and the research process"
+challenge:
+- Review this <a href="https://drive.google.com/file/d/149TuP677pWp9I_rYhbwm08lIs9orcQ9a/view?usp=sharing" target="_blank">README</a> and identify what you think are the key details to include in a README when describing a research project. Try to think about why they might be important details. 
 keypoints:
 - "READMEs are an important and simple tool for documenting various aspects of a research project, including assets (data) and workflow"
 ---
