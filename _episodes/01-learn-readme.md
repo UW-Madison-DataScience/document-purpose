@@ -19,9 +19,8 @@ keypoints:
 >
 > > ## Solution
 > > ~~~
-> > [1] This README lists the researchers who received funding, basic funding information, basic descriptions of files in the dataset. This README is an example of how a README can be used to give a basic description of a research project. 
+> > This README lists the researchers who received funding, basic funding information, basic descriptions of files in the dataset. This README is an example of how a README can be used to give a basic description of a research project. 
 > > ~~~
-> > {: .output}
 > {: .solution}
 {: .challenge}
 
