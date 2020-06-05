@@ -12,11 +12,18 @@ objectives:
 keypoints:
 - "READMEs are an important and simple tool for documenting various aspects of a research project, including assets (data) and workflow"
 ---
-## Challenge: Reviewing a README
-Review this <a href="https://drive.google.com/file/d/149TuP677pWp9I_rYhbwm08lIs9orcQ9a/view?usp=sharing" target="_blank">README</a> and identify what you think are the key details to include in a README when describing a research project. Think about why they might be important details. 
-
-## Solution
-This README lists the researchers who received funding, basic funding information, basic descriptions of files in the dataset. This README is an example of how a README can be used to give a basic description of a research project. 
+> ## Challenge: Reviewing a README
+>
+> Review this <a href="https://drive.google.com/file/d/149TuP677pWp9I_rYhbwm08lIs9orcQ9a/view?usp=sharing"  target="_blank">README</a> and identify what you think are the key details to include in a README when describing a research project. Think about why they might be important details. 
+>
+>
+> > ## Solution
+> > ~~~
+> > [1] This README lists the researchers who received funding, basic funding information, basic descriptions of files in the dataset. This README is an example of how a README can be used to give a basic description of a research project. 
+> > ~~~
+> > {: .output}
+> {: .solution}
+{: .challenge}
 
 ### Documentation with READMEs
 READMEs are commonly used to document software installation, and can also be used for:
